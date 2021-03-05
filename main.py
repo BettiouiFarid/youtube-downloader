@@ -1,4 +1,4 @@
-from pytube import Youtube 
+from Pytube import Youtube 
 
 link = input("Entre the link : ")
 
